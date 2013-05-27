@@ -1,0 +1,9 @@
+Log de Problemas na Versão 1 da Loja de Guitarras
+
+O software faz o que o cliente deseja, porém possui os seguintes problemas de orientaãão ao objeto:
+
+1 - Guitar é passada para o método search() com valores nulos ou em branco (serialNumber e price) -> Objeto mal utilizado. 
+
+2 - Todas as vezes que crio um novo atributo na classe de especificação (numStrings por exemplo),
+preciso alterar também a classe Inventory (problema de acoplamento forte). Isso ocorre porque meu método search()
+manipula nos ifs atributos da classe de espeficição.
