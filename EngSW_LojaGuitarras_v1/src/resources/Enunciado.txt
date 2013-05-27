@@ -1,0 +1,6 @@
+Exercício da loja de guitarras
+
+Desenvolva o diagrama de classes e faça a implementação em Java de uma loja de guitarras.
+Cada guitarra possui serial number, price, builder, model, type, backwood e topwood.
+O software deve permitir que guitarras sejam adicionadas no estoque e que guitarras sejam buscadas por
+builder, model, type, backwood e topwood.
