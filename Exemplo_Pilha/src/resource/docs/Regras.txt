@@ -1,0 +1,8 @@
+Regras de Negócio do projeto Pilha
+1- A pilha será única para todo o projeto;
+2- A lista de itens da pilha estará inicialmente vazia;
+3- Não é possível retirar itens da pilha vazia;
+4- O último item retirado deve ser preservado;
+5- O último item adicionado será o último da Pilha;
+6- Será possível resgatar todos os itens da pilha
+7- A retirada de itens da pilha vazia deve ser tratada.
